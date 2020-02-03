@@ -1,6 +1,6 @@
 # Memory Game Project
 
-This is a matching game and the player has to match the 8 pairs of cards correctly.
+This is a matching game and the player has to match the 8 pairs of cards correctly.You can find the live demo powered by GitHub Pages [here](https://ashwaqasiri.github.io/Matching-Game/).
 
 ## Table of Contents
 
@@ -23,4 +23,4 @@ Adam Khoury: for general Idea of implementation [here](https://www.youtube.com/w
 
 * [Animate.css](https://daneden.github.io/animate.css).
 * [sweetalert2](https://sweetalert2.github.io/).
-# Matching-Game
+
